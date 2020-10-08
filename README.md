@@ -1,10 +1,6 @@
 <h1 align="center">I'm João Pedro Clemente, welcome to my GitHub.</h1>
-<h3 align="center" text-justify:"inter-word">I'm a 20 years old brazilian computer science student at the Universidade Federal de Viçosa in the state of Minas Gerais. Here, I'll be posting projects I create during my graduation and some other coding in different programming areas. Currently I'm working more with C and C++ languages in college works and also Web programming by myself, but I'm always open for learning more.</h3>
+<h3 align="justify">I'm a 20 years old brazilian computer science student at the Universidade Federal de Viçosa in the state of Minas Gerais. Here, I'll be posting projects I create during my graduation and some other coding in different programming areas. Currently I'm working more with C and C++ languages in college works and also Web programming by myself, but I'm always open for learning more.</h3>
 
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/joão pedro clemente" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joão pedro clemente" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
