@@ -1,5 +1,5 @@
 <h1 align="center">I'm João Pedro Clemente, welcome to my GitHub.</h1>
-<h3 align="center">I'm a 20 years old brazilian computer science student at the Universidade Federal de Viçosa in the state of Minas Gerais. Here, I'll be posting projects I create during my graduation and some other coding in different programming areas. Currently I'm working more with C and C++ languages in college works and also Web programming by myself, but I'm always open for learning more.</h3>
+<h3 align="center" justify:"inter-word">I'm a 20 years old brazilian computer science student at the Universidade Federal de Viçosa in the state of Minas Gerais. Here, I'll be posting projects I create during my graduation and some other coding in different programming areas. Currently I'm working more with C and C++ languages in college works and also Web programming by myself, but I'm always open for learning more.</h3>
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
