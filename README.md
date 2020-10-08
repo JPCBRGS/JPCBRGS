@@ -1,5 +1,5 @@
 <h1 align="center">Hello, welcome to my GitHub.</h1>
-<p align="justify">I'm a 20 years old brazilian computer science student at the Universidade Federal de Viçosa in the state of Minas Gerais. Here, I'll be posting projects I create during my graduation and some other coding in different programming areas. Currently I'm working more with C and C++ languages in college works and also Web programming by myself, but I'm always open for learning more.</p>
+<p align="justify">I'm a 20 years old brazilian computer science student at the Universidade Federal de Viçosa in the state of Minas Gerais. Here, I'll be posting projects I create during my graduation and some other coding in different programming areas. Currently I'm working more with C and C++ languages in college works and also web programming by myself, but I'm always open for learning more.</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
