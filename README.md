@@ -1,4 +1,10 @@
 <h1 align="center">Hello, welcome to my GitHub.</h1>
-<p align="justify">I'm a 23 years old brazilian computer science student at the Universidade Federal de Viçosa in the state of Minas Gerais. Here, I'll be uploading projects I create during my graduation and some other coding in different programming areas. Currently I'm working more with Python, C and C++ languages on college projects and I also have experience with Microsoft Azure, Software Development, CI/CD pipeline development, PowerShell, and APM with DataDog.
+<p align="justify">Graduating in Computer Science from the Federal University of Viçosa, I am a driven and dedicated professional seeking opportunities to leverage my skills and passion for software development.
+
+I'm currently holding the position of Software Developer Intern at Blive as a Full-Stack Programmer while actively embracing Agile principles and methodologies.
+
+In my current role, I utilize a diverse set of cutting-edge technologies, including Microsoft Azure, C#, JavaScript, SQL, Postman, and DataDog. I have also gained proficiency in DevOps practices, such as Ansible, PowerShell, and Command Prompt scripting. Additionally, I possess expertise in developing CI/CD pipelines and conducting application performance monitoring (APM).
+
+Furthermore, I have acquired extensive knowledge and experience in programming languages such as C, C++, and Python via both my academic pursuits and personal projects. Throughout my time in college and beyond, I have improved my skills in various programming aspects, including data structures, optimization techniques, artificial intelligence, and mobile development.
 
 
