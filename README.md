@@ -1,10 +1,2 @@
 <h1 align="center">Hello, welcome to my GitHub.</h1>
-<p align="justify">Graduating in Computer Science from the Federal University of Viçosa, I am a driven and dedicated professional seeking opportunities to leverage my skills and passion for software development.
-
-<p align="justify">I'm currently holding the position of Client Services Specialist at ShowSeeker.
-
-<p align="justify">In my current role, I utilize a diverse set of cutting-edge technologies, including Microsoft Azure, Java, C#, JavaScript, SQL, Postman, and DataDog. I have also gained proficiency in DevOps practices, such as Ansible, PowerShell, and Command Prompt scripting. Additionally, I possess expertise in developing CI/CD pipelines and conducting application performance monitoring (APM).
-
-<p align="justify">Furthermore, I have acquired extensive knowledge and experience in programming languages such as C, C++, and Python via both my academic pursuits and personal projects. Throughout my time in college and beyond, I have improved my skills in various programming aspects, including data structures, optimization techniques, artificial intelligence, and mobile development.
-
-
+<p align="justify">Brazilian TechOps Specialist at ShowSeeker and Computer Science student with over seven years of development experience, including five years in professional settings. Proven expertise in full-stack development, infrastructure automation, and application logging and monitoring. I am passionate about building reliable, scalable solutions and eager to apply my expertise to meaningful, high-impact projects, with a growing interest in the intersection of technology and economics.
